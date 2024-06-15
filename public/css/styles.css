@@ -1,0 +1,133 @@
+body {
+  background-color: #84A7A1;
+}
+
+.emoji {
+  padding: 20px 0;
+  font-size: 40px;
+  margin: 20px;
+  height: 70px;
+  transition: opacity 0.5s ease;
+}
+
+.boxes {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+.emoji:nth-child(1) {
+  background-color: #41C9E2;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(2) {
+  background-color: #071952;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(3) {
+  background-color: #F1F1F1;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(4) {
+  background-color: #151515;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(5) {
+  background-color: #F9FFA4;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(6) {
+  background-color: #7D0A0A;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(7) {
+  background-color: #FF9EAA;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(8) {
+  background-color: #9900F0;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(9) {
+  background-color: #FFC55A;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(10) {
+  background-color: #393E46;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(11) {
+  background-color: #FF8F00;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(12) {
+  background-color: #994D1C;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(13) {
+  background-color: #604CC3;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(14) {
+  background-color: #9BEC00;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+/*# sourceMappingURL=styles.css.map */

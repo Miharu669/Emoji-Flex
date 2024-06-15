@@ -1,0 +1,150 @@
+// variables
+$speaknow: #604CC3;
+$debut: #9BEC00;
+$lover: #FF9EAA;
+$reputation: #151515;
+$ttpd: #F1F1F1;
+$fearless: #FFC55A;
+$milnovecientosochentaynueve: #41C9E2;
+$red: #7D0A0A;
+$karma: #FF8F00;
+$folklore: #393E46;
+$evermore: #994D1C;
+$midnights: #071952;
+$flamingopink: #F31559;
+$banana: #F9FFA4;
+$swift: #9900F0;
+
+body {
+    background-color: #84A7A1
+}
+
+.emoji {
+  padding: 20px 0;
+  font-size: 40px;
+  margin: 20px;
+  height: 70px;
+  transition: opacity 0.5s ease;
+  
+  
+}
+
+.boxes {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+.emoji:nth-child(1) {
+  background-color: $milnovecientosochentaynueve;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(2) {
+  background-color: $midnights;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(3) {
+  background-color: $ttpd;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(4) {
+  background-color: $reputation;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(5) {
+  background-color: $banana;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(6) {
+  background-color: $red;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(7) {
+  background-color: $lover;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(8) {
+  background-color: $swift;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(9) {
+  background-color: $fearless;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(10) {
+  background-color: $folklore;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(11) {
+  background-color: $karma;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(12) {
+  background-color: $evermore;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(13) {
+  background-color: $speaknow;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji:nth-child(14) {
+  background-color: $debut;
+  display: flex;
+  width: 180px;
+  justify-content: center;
+  align-items: center;
+}

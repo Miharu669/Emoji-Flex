@@ -1,0 +1,26 @@
+{
+  "name": "emoji-flex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass ./src/scss/styles.scss ./public/css/styles.css",
+    "sass-w": "sass --watch ./src/scss/styles.scss ./public/css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miharu669/Emoji-Flex.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miharu669/Emoji-Flex/issues"
+  },
+  "homepage": "https://github.com/Miharu669/Emoji-Flex#readme",
+  "dependencies": {
+    "sass": "^1.77.5"
+  },
+  "devDependencies": {}
+}
